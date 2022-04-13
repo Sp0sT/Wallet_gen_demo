@@ -1,11 +1,6 @@
 #!/usr/bin/python3
 
 
-import bitcoin
-from bitcoinutils.setup import setup
-from bitcoinutils.keys import P2pkhAddress, PrivateKey, PublicKey
-
-
 
 print("""   
     
